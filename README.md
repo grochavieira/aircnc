@@ -1,2 +1,2 @@
 # AirCnC
-Resultado final do projeto da semana OmniStack #9
+Projeto da Semana OmniStack #9
